@@ -26,7 +26,7 @@ export default function Home() {
         />
       </head>
       <div>
-        {/* <Hero {...heroProps} /> */}
+        <Hero {...heroProps} />
         {/** Other sections */}
         <Card {...cardProps} />
       </div>

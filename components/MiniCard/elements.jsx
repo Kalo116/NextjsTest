@@ -31,7 +31,7 @@ export const StyledCard = styled.div`
 export const StyledSectionTinyHeading = styled.h2`
     font-family: Poppins;
     font-size: 1.5rem;
-    font-weight: 500;
+    font-weight: 600;
     margin:0px;
     margin-bottom: 6px;
 `
@@ -39,7 +39,7 @@ export const StyledSectionTinyHeading = styled.h2`
 export const StyledSectionTinyHighlightedHeading = styled.h2`
     font-family: Poppins;
     font-size: 1.5rem;
-    font-weight: 500;
+    font-weight: 600;
     margin:0px;
     margin-bottom: 6px;
     color: #458aeb;

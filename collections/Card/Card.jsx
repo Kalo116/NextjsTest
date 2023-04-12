@@ -17,7 +17,7 @@ import {
 const miniCardsArr = [
     {
         title: 'Brief',
-        description: 'Complete <strong>brief writing or simple guydance</strong> on what to include, we\'ve got you covered.',
+        description: 'Complete <strong>brief writing or simple guidance</strong> on what to include, we\'ve got you covered.',
         icon: faClipboard,
         isColored: false,
         isHighlight: false
@@ -31,7 +31,7 @@ const miniCardsArr = [
     },
     {
         title: 'Pitch',
-        description: `Comprehensive <strong>pitch management</strong>, including commns, diary management and pitch hosting`,
+        description: `Comprehensive <strong>pitch management</strong>, including comms, diary management and pitch hosting.`,
         icon: faBullhorn,
         isColored: true,
         isHighlight: true
